@@ -9,7 +9,7 @@ function App() {
   let todos =[
   { Sno:1,
     title:"Go to market",
-    desc: "You Need to go to market to get this work done"},
+    desc: "You Need to go to Market to get this work done"},
   
     { Sno:2,
     title:"Go to Shop",
